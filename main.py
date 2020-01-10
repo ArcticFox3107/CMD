@@ -31,4 +31,3 @@ essay.txt     File       63kb''')
 			current = "/"
 	else :
 		print("Invalid command.")
-		#s
